@@ -23,6 +23,8 @@ common:
     url: https://www.linkedin.com/company/meta
   - type: Website
     url: https://www.meta-platforms.com
+  - type: LLMsTxt
+    url: https://meta-platforms.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
